@@ -45,26 +45,29 @@
         <p class="lead">Revisão sobre PHP - Códigos-fonte utilizados nas aulas<p>
 
         <h4>Aula 01 - Exemplos</h4>
-          <labe>Passagens de Parametros Formulário - </label>
+          <label>Passagens de Parametros Formulário - </label>
           <a href="aula01/codigos/dadosPost/viewObterDados.php">Obter Dados Form</a>
 
           <br>
-          <labe>Passagens de Parametros Formulário para um Array - </label>
+          <label>Passagens de Parametros Formulário para um Array - </label>
           <a href="aula01/codigos/dadosPost/viewObterDadosArray.php"> Obter Dados Form - Array</a>
 
           <br>
-          <labe>Exemplo Dados na Tabela - </label>
+          <label>Exemplo Dados na Tabela - </label>
           <a href="aula01/codigos/loadTabela/view.php"> View Tabela</a>
 
           <br>
-          <labe>Exemplo Rotas - </label>
+          <label>Exemplo Rotas - </label>
           <a href="aula01/codigos/dadosPost/viewRoute.php"> View Rotas</a>
           <br>
-          <labe>Escrever Arquivos - </label>
+          <label>Escrever Arquivos - </label>
           <a href="aula01/codigos/escreverArquivo/view.php"> Escrever Arquivos</a>
           <br>
-          <labe>Ler Arquivos - </label>
+          <label>Ler Arquivos - </label>
           <a href="aula01/codigos/lerArquivo/view.php"> Ler Arquivos</a>
+          </p>
+          <label>Exemplo de CRUD com PDO- </label>
+          <a href="view/viewAluno.php"> Ler Arquivos</a>
           </p>
         </p>
       </div>
